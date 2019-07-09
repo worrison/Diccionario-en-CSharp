@@ -1,0 +1,7 @@
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\obj\Debug\Diccionario.csprojAssemblyReference.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\obj\Debug\Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\bin\Debug\Diccionario.exe.config
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\obj\Debug\Diccionario.exe
+C:\Users\formacion.GTT.000\Desktop\c#\Diccionario\Diccionario\obj\Debug\Diccionario.pdb
